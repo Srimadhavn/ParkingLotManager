@@ -87,6 +87,7 @@ void Customer::addUser() {
     } else {
         MemberShip = false;
     }    
+    
 }
 
 void Customer::displayUser(string userName, string passwd) {
